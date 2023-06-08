@@ -1,3 +1,3 @@
 # js-lecture
 
-ちなみに一部chatgptに頼っています。
+ちなみに一部chatgptとcopilotに頼っています。
