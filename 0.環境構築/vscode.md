@@ -52,6 +52,10 @@ Copilotを使うには、[github.md](./github.md)のGitHub Educationを参考に
 
 # Gitの操作
 
+
+
+
+
 ![Alt text](../img/vscode-git1.png)
 
 メッセージ欄にコミットメッセージを入力します。
@@ -61,4 +65,6 @@ Copilotを使うには、[github.md](./github.md)のGitHub Educationを参考に
 コミットボタンを押します。
 
 ![Alt text](../img/vscode-git2.png)
+
+変更の同期を押します。(これはGitでいうところの`push`を意味しています。)
 
