@@ -52,9 +52,25 @@ Copilotを使うには、[github.md](./github.md)のGitHub Educationを参考に
 
 # Gitの操作
 
+[github.md](github.md)を参考にして作ったリポジトリをローカル(自分のPC)に落とし込みます。
 
+## リポジトリのクローン
 
+VSCodeの左側のアイコンからGitのアイコンをクリックします。
 
+クローンをクリックします。
+
+![](image.png)
+
+クローンしたいリポジトリのURLを入力します。
+
+このURLはここで確認できます。
+
+![Alt text](image-1.png)
+
+## コミット
+
+コミットとはファイルの変更をGitHubに上げるということです。
 
 ![Alt text](../img/vscode-git1.png)
 
@@ -68,3 +84,14 @@ Copilotを使うには、[github.md](./github.md)のGitHub Educationを参考に
 
 変更の同期を押します。(これはGitでいうところの`push`を意味しています。)
 
+## プル
+
+プルとはGitHubにあるファイルをローカルに落とし込むことです。
+
+コミットができませんでしたというエラーが出た場合は、プルをしてください。
+
+![Alt text](image-2.png)
+
+## その他
+
+その他のVSCodeのGit操作は[こちら](https://google.com)を参考にしてください。
