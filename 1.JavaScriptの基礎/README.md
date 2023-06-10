@@ -1,4 +1,4 @@
-# JavaScriptの基礎
+# JavaScriptの基礎(UNDER CONSTRUCTION)
 
 以下は、JavaScriptの文法に関するMarkDownファイルの例です。このファイルにはJavaScriptの基本的な文法要素が含まれており、簡潔な説明とコードのサンプルが提供されています。注意点や特定の文法の使い方については、より詳しいドキュメントやリソースを参照してください。(chatGPT)
 
