@@ -159,7 +159,7 @@ function add(a, b) {
   return a + b;
 }
 
-let result = add(2, 3); // 5となる
+const result = add(2, 3); // 5となる
 ```
 
 ### 無名関数と即時関数
@@ -168,15 +168,30 @@ let result = add(2, 3); // 5となる
 無名関数は名前を持たない関数であり、変数に代入するか、他の関数の引数として使用されます。即時関数は定義と同時に実行される無名関数です。
 
 ```javascript
-let multiply = function(a, b) {
+const multiply = function(a, b) {
   return a * b;
 };
 
-let product = multiply(3, 4); // 12となる
+//上のようにも書きますが、下のように書くことが多いです。
 
-(function() {
-  // 即時関数の中のコード
-})();
+const multiply= (a,b)=>{
+  return a*b
+}
+
+const product = multiply(3, 4); // 12となる
+
+()=>{
+  console.log("即時関数")
+}()
+///////////////////////////////////////////
+()=>{
+
+}
+//の部分で関数を定義しています。
+
+()
+//後ろの()で関数を呼び出しています。
+
 ```
 
 ## オブジェクトとクラス
@@ -185,7 +200,7 @@ let product = multiply(3, 4); // 12となる
 オブジェクトはプロパティと値のペアの集合です。
 
 ```javascript
-let person = {
+const person = {
   firstName: "John",
   lastName: "Doe",
   age: 25,
@@ -213,11 +228,6 @@ class Rectangle {
   }
 }
 
-let rectangle = new Rectangle(5, 3);
+const rectangle = new Rectangle(5, 3);
 console.log(rectangle.area()); // 15と表示される
 ```
-
-以上がJavaScriptの基本的な文法要素の例です。JavaScriptには他にもさまざまな機能や文法がありますので、必要に応じて公式のドキュメントやその他のリソースを参照してください。
-
-
-このMarkDownファイルをテキストエディタやMarkDownプレビューツールで開くと、JavaScriptの文法に関する情報が整理された形式で表示されます。
