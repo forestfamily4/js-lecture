@@ -1,11 +1,12 @@
-const person = {
-    firstName: "John",
-    lastName: "Doe",
-    age: 25,
-    fullName: function () {
-        return this.firstName + " " + this.lastName;
-    }
-};
+const a="あいうえおかきくけこ"
+const b=a.split(" ")
+//console.log(b)
 
-console.log(person.firstName); // "John"と表示される
-console.log(person.fullName()); // "John Doe"と表示される
+const c=a.replaceAll("1","2")
+//console.log(c)
+
+const d=a.slice(1,4)
+console.log(d)
+
+const e=a.substring(-1,4)
+console.log(e)
