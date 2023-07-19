@@ -1,4 +1,4 @@
-## 復習問題
+## 問題
 
 1. 下の num1,num2 を入れ替えて代入してください。
 
@@ -12,7 +12,7 @@ let num1 = 10,
 
 ```js
 function getRandom(start, end) {
-  //startからendまでのランダムな整数を返す
+  //startからendまでのランダムな数を返す
   //
 }
 ```
@@ -24,6 +24,10 @@ function reverseString(str) {
   //strを反転させた文字列を返す
   //
 }
+
+//ex
+
+reverseString("hello"); // "olleh"
 ```
 
 4. 下の関数を完成させてください。
