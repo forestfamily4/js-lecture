@@ -7,6 +7,8 @@ https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide
 
 こちらがガイドとなっているので、参考にしてください。
 
+練習問題: [問題B](./問題/B.md)
+
 
 - Infinity
 - NaN
