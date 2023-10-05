@@ -1,2 +1,5 @@
 .vscode/
 test.js
+index.js
+node_modules/
+dist/
