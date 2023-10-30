@@ -11,7 +11,7 @@
 ### 大問2
 
 1.
-- 関数[`Math.floor()`](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)は数値を切り捨てる関数です。引数が負の数の挙動を確認しておきましょう。
+- 関数[`Math.floor()`](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)は数値を切り捨てる関数です。引数が負の数のときの挙動を確認しておきましょう。
 
 2.
 - 文字列を数値にする方法にはいくつかあります。[`parseInt()`](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/parseInt)・[`parseFloat()`](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)・[`Number()`](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Number/Number)などです。引数にいろいろな値を入れてみて、実際にそれぞれの挙動を確かめましょう(小数、負の数、数値ではない文字列など)。
