@@ -16,7 +16,7 @@ graph LR
         subgraph s1-1[Next.js]
             A[Next.js公式サイト]
         end
-        
+
         subgraph s2-5[Node.js]
 
         end
@@ -56,34 +56,35 @@ graph LR
     s2 --> G
     s3 --> G
 
-    
+
 
     s2-5 --> s2-4
 
     G --> s5
-
-    click A href "https://nextjs.org/docs" _blank
-    click B href "https://ja.react.dev/learn" _blank
-    click C href "https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML" _blank
-    click D href "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps" _blank
-    click D2 href "https://tailwindcss.com/docs" _blank
-    click E href "https://developer.mozilla.org/ja/docs/Web/JavaScript" _blank
-    click F href "https://backlog.com/ja/git-tutorial/" _blank
-    click E3 href "https://typescriptbook.jp/" _blank
-    click H1 href "https://pages.cloudflare.com/" _blank
-    click H2 href "https://vercel.com/" _blank
 ```
+
+- リンク一覧
+  "https://nextjs.org/docs"
+  "https://ja.react.dev/learn"
+  "https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML"
+  "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps"
+  "https://tailwindcss.com/docs"
+  "https://developer.mozilla.org/ja/docs/Web/JavaScript"
+  "https://backlog.com/ja/git-tutorial/"
+  "https://typescriptbook.jp/"
+  "https://pages.cloudflare.com/"
+  "https://vercel.com/"
 
 ## 2/8 の復習
 
-- Next.jsの開発サーバーを開始する
+- Next.js の開発サーバーを開始する
 
 上のタブ一覧からターミナルを開き、
 `npm run dev`
 と入力する
 
-> node,npm,npxコマンドについては、[nodejs.md](../0.環境構築/nodejs.md)を参照
+> node,npm,npx コマンドについては、[nodejs.md](../0.環境構築/nodejs.md)を参照
 
-- Next.jsのページを作成する
+- Next.js のページを作成する
 
 `app/page.tsx`の中を編集する
