@@ -64,16 +64,16 @@ graph LR
 ```
 
 - リンク一覧
-  "https://nextjs.org/docs"
-  "https://ja.react.dev/learn"
-  "https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML"
-  "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps"
-  "https://tailwindcss.com/docs"
-  "https://developer.mozilla.org/ja/docs/Web/JavaScript"
-  "https://backlog.com/ja/git-tutorial/"
-  "https://typescriptbook.jp/"
-  "https://pages.cloudflare.com/"
-  "https://vercel.com/"
+  https://nextjs.org/docs
+  https://ja.react.dev/learn
+  https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML
+  https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps
+  https://tailwindcss.com/docs
+  https://developer.mozilla.org/ja/docs/Web/JavaScript
+  https://backlog.com/ja/git-tutorial/
+  https://typescriptbook.jp/
+  https://pages.cloudflare.com/
+  https://vercel.com/
 
 ## 2/8 の復習
 
