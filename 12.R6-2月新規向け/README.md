@@ -76,11 +76,13 @@ graph LR
 
 ## 2/8 の復習
 
-- Next.jsのサーバーを開始する
+- Next.jsの開発サーバーを開始する
 
 上のタブ一覧からターミナルを開き、
 `npm run dev`
 と入力する
+
+> node,npm,npxコマンドについては、[nodejs.md](../0.環境構築/nodejs.md)を参照
 
 - Next.jsのページを作成する
 
