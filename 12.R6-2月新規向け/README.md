@@ -62,16 +62,16 @@ graph LR
 
     G --> s5
 
-    click A href "https://nextjs.org/docs"
-    click B href "https://ja.react.dev/learn"
-    click C href "https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML"
-    click D href "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps"
-    click D2 href "https://tailwindcss.com/docs"
-    click E href "https://developer.mozilla.org/ja/docs/Web/JavaScript"
-    click F href "https://backlog.com/ja/git-tutorial/"
-    click E3 href "https://typescriptbook.jp/"
-    click H1 href "https://pages.cloudflare.com/"
-    click H2 href "https://vercel.com/"
+    click A href "https://nextjs.org/docs" _blank
+    click B href "https://ja.react.dev/learn" _blank
+    click C href "https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML" _blank
+    click D href "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps" _blank
+    click D2 href "https://tailwindcss.com/docs" _blank
+    click E href "https://developer.mozilla.org/ja/docs/Web/JavaScript" _blank
+    click F href "https://backlog.com/ja/git-tutorial/" _blank
+    click E3 href "https://typescriptbook.jp/" _blank
+    click H1 href "https://pages.cloudflare.com/" _blank
+    click H2 href "https://vercel.com/" _blank
 ```
 
 ## 2/8 の復習
