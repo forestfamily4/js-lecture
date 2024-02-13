@@ -1,0 +1,7 @@
+.p{/* <-セレクター */    
+    color: red; /* プロパティ:値 */    
+    font-size: 20px;
+}
+.bold{/* bold:太字 */    
+    font-weight: bold;
+}
